@@ -37,7 +37,7 @@
     "dist"
   ],
   "peerDependencies": {
-    "webpack": "^3.0.0"
+    "webpack": ">= 3.0.0"
   },
   "dependencies": {
     "cacache": "^11.0.2",
