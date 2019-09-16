@@ -1,6 +1,6 @@
 {
   "name": "@calitino/terser-webpack-plugin-legacy",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Terser plugin for webpack",
   "license": "MIT",
   "repository": "webpack-contrib/terser-webpack-plugin",
@@ -37,7 +37,7 @@
     "dist"
   ],
   "peerDependencies": {
-    "webpack": ">= 3.0.0"
+    "webpack": "*"
   },
   "dependencies": {
     "cacache": "^11.0.2",
