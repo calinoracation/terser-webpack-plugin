@@ -9,7 +9,7 @@
   "bugs": "https://github.com/webpack-contrib/terser-webpack-plugin/issues",
   "main": "dist/cjs.js",
   "engines": {
-    "node": ">= 6.9.0"
+    "node": ">= 8.9.1"
   },
   "scripts": {
     "start": "npm run build -- -w",
@@ -98,7 +98,7 @@
         "@babel/preset-env",
         {
           "targets": {
-            "node": "6.9.0"
+            "node": "8.9.1"
           },
           "useBuiltIns": "usage"
         }
