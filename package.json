@@ -1,5 +1,5 @@
 {
-  "name": "@irbnb/terser-webpack-plugin-legacy",
+  "name": "@calinoracation/terser-webpack-plugin-legacy",
   "version": "1.2.3",
   "description": "Terser plugin for webpack",
   "license": "MIT",
